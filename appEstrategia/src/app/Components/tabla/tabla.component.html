@@ -1,0 +1,81 @@
+<div class="container">
+  <div class="row mt-4">
+    <h1 class="display-4">Bienvenido</h1>
+    <span class="text-muted" style="font-size: 20px;">App - Combinacion de estrategias carreras</span>
+    <hr class="mt-2" style="color: grey" />
+    <div
+      class="col-md-6 p-3 mt-4"
+      style="
+        border-radius: 30px;
+        border: 1px solid grey;
+        box-shadow: 0px 8px 12px rgba(0, 0, 0, 0.2);
+      "
+    >
+      <form style="font-weight: bold">
+        <div class="mb-3">
+          <label for="" class="form-label">Usuario</label>
+          <input
+            type="text"
+            class="form-control"
+            name="Usuario"
+            [(ngModel)]="Usuario"
+          />
+        </div>
+        <div class="mb-3">
+          <label for="" class="form-label">Piloto Id</label>
+          <input
+            type="number"
+            class="form-control"
+            name="PilotoId"
+            [(ngModel)]="PilotoId"
+          />
+        </div>
+        <div class="mb-3">
+          <label for="exampleInputPassword1" class="form-label"
+            >Maximas Vueltas</label
+          >
+          <input
+            type="number"
+            class="form-control"
+            name="MaximasVueltas"
+            [(ngModel)]="MaximasVueltas"
+          />
+        </div>
+        <button
+          type="button"
+          class="btn btn-success"
+          style="border-radius: 40px"
+          (click)="GetEstrategias()"
+        >
+          Generar Estrategia
+        </button>
+      </form>
+    </div>
+  </div>
+  <div class="row mt-4">
+    <div class="col-md-12">
+      <table *ngIf="Estrategias.length > 0" class="table">
+        <thead>
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">Total Vueltas</th>
+            <th scope="col">Total Rendimiento</th>
+            <th scope="col">Total Consumo</th>
+            <th scope="col">Promedio consumo</th>
+            <th scope="col">Nombre Piloto</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let estrategia of Estrategias; index as i">
+            <th scope="row">{{i}}</th>
+            <td scope="col" [ngClass]="{'resaltado': i === 0}">{{estrategia.totalVueltas}}</td>
+            <td scope="col" [ngClass]="{'resaltado': i === 0}">{{estrategia.totalRendimiento}}</td>
+            <td scope="col" [ngClass]="{'resaltado': i === 0}">{{estrategia.totalConsumo}}</td>
+            <td scope="col" [ngClass]="{'resaltado': i === 0}">{{estrategia.promedioConsumo}}</td>
+            <td scope="col" [ngClass]="{'resaltado': i === 0}">{{estrategia.nombrePiloto}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
