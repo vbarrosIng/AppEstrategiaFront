@@ -1,0 +1,15 @@
+C:\Users\vbarr\source\repos\ApiEstrategias.Api\ApiEstrategias.Infrastructure\bin\Debug\net8.0\ApiEstrategias.Infrastructure.deps.json
+C:\Users\vbarr\source\repos\ApiEstrategias.Api\ApiEstrategias.Infrastructure\bin\Debug\net8.0\ApiEstrategias.Infrastructure.dll
+C:\Users\vbarr\source\repos\ApiEstrategias.Api\ApiEstrategias.Infrastructure\bin\Debug\net8.0\ApiEstrategias.Infrastructure.pdb
+C:\Users\vbarr\source\repos\ApiEstrategias.Api\ApiEstrategias.Infrastructure\bin\Debug\net8.0\ApiEstrategias.Domain.dll
+C:\Users\vbarr\source\repos\ApiEstrategias.Api\ApiEstrategias.Infrastructure\bin\Debug\net8.0\ApiEstrategias.Domain.pdb
+C:\Users\vbarr\source\repos\ApiEstrategias.Api\ApiEstrategias.Infrastructure\obj\Debug\net8.0\ApiEstrategias.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\vbarr\source\repos\ApiEstrategias.Api\ApiEstrategias.Infrastructure\obj\Debug\net8.0\ApiEstrategias.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vbarr\source\repos\ApiEstrategias.Api\ApiEstrategias.Infrastructure\obj\Debug\net8.0\ApiEstrategias.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\vbarr\source\repos\ApiEstrategias.Api\ApiEstrategias.Infrastructure\obj\Debug\net8.0\ApiEstrategias.Infrastructure.AssemblyInfo.cs
+C:\Users\vbarr\source\repos\ApiEstrategias.Api\ApiEstrategias.Infrastructure\obj\Debug\net8.0\ApiEstrategias.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\vbarr\source\repos\ApiEstrategias.Api\ApiEstrategias.Infrastructure\obj\Debug\net8.0\ApiEstrategias.Infrastructure.csproj.CopyComplete
+C:\Users\vbarr\source\repos\ApiEstrategias.Api\ApiEstrategias.Infrastructure\obj\Debug\net8.0\ApiEstrategias.Infrastructure.dll
+C:\Users\vbarr\source\repos\ApiEstrategias.Api\ApiEstrategias.Infrastructure\obj\Debug\net8.0\refint\ApiEstrategias.Infrastructure.dll
+C:\Users\vbarr\source\repos\ApiEstrategias.Api\ApiEstrategias.Infrastructure\obj\Debug\net8.0\ApiEstrategias.Infrastructure.pdb
+C:\Users\vbarr\source\repos\ApiEstrategias.Api\ApiEstrategias.Infrastructure\obj\Debug\net8.0\ref\ApiEstrategias.Infrastructure.dll

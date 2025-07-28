@@ -1,0 +1,11 @@
+C:\Users\vbarr\source\repos\ApiEstrategias.Api\ApiEstrategias.Domain\bin\Debug\net8.0\ApiEstrategias.Domain.deps.json
+C:\Users\vbarr\source\repos\ApiEstrategias.Api\ApiEstrategias.Domain\bin\Debug\net8.0\ApiEstrategias.Domain.dll
+C:\Users\vbarr\source\repos\ApiEstrategias.Api\ApiEstrategias.Domain\bin\Debug\net8.0\ApiEstrategias.Domain.pdb
+C:\Users\vbarr\source\repos\ApiEstrategias.Api\ApiEstrategias.Domain\obj\Debug\net8.0\ApiEstrategias.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vbarr\source\repos\ApiEstrategias.Api\ApiEstrategias.Domain\obj\Debug\net8.0\ApiEstrategias.Domain.AssemblyInfoInputs.cache
+C:\Users\vbarr\source\repos\ApiEstrategias.Api\ApiEstrategias.Domain\obj\Debug\net8.0\ApiEstrategias.Domain.AssemblyInfo.cs
+C:\Users\vbarr\source\repos\ApiEstrategias.Api\ApiEstrategias.Domain\obj\Debug\net8.0\ApiEstrategias.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vbarr\source\repos\ApiEstrategias.Api\ApiEstrategias.Domain\obj\Debug\net8.0\ApiEstrategias.Domain.dll
+C:\Users\vbarr\source\repos\ApiEstrategias.Api\ApiEstrategias.Domain\obj\Debug\net8.0\refint\ApiEstrategias.Domain.dll
+C:\Users\vbarr\source\repos\ApiEstrategias.Api\ApiEstrategias.Domain\obj\Debug\net8.0\ApiEstrategias.Domain.pdb
+C:\Users\vbarr\source\repos\ApiEstrategias.Api\ApiEstrategias.Domain\obj\Debug\net8.0\ref\ApiEstrategias.Domain.dll

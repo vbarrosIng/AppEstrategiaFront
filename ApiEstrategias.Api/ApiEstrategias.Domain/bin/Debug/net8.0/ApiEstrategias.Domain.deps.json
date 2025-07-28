@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ApiEstrategias.Domain/1.0.0": {
+        "runtime": {
+          "ApiEstrategias.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApiEstrategias.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
